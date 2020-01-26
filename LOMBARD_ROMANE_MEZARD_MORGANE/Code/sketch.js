@@ -32,19 +32,19 @@ function setup() {
   back = new Riso('black')
 
   // (...)
-   info = new Riso('white')
-   //(...)
+  info = new Riso('white')
+  //(...)
 
-   info.stroke(255);
-info.strokeWeight(3);
-info.line(0, height * 0.8, width, height * 0.8);
+  info.stroke(255);
+  info.strokeWeight(3);
+  info.line(0, height * 0.8, width, height * 0.8);
 }
 
 
 function draw() {
 
   background(255);
-   clearRiso(); // remove everything
+  clearRiso(); // remove everything
   drawViz(); // draw each viz in its layer
   drawRiso(); // display the layers drawn previously
 }
@@ -68,44 +68,44 @@ function drawViz() {
     let angle = map(i, 0, dataSize, 0, 360);
     let rad = map(dat.x, -300, 200, 0, width * 0.3);
     let x = width / 2 + rad * cos(radians(angle));
-    let y = height *0.4 + rad * sin(radians(angle));
+    let y = height * 0.4 + rad * sin(radians(angle));
 
     //let scirclex = map(dat.x, -300, 300, 10, 50);
     //let scircley = map(dat.x, -300, 300, 10, 50);
     //let scirclez = map(dat.x, -300, 300, 10, 50);
 
 
-    layerFSR.stroke(255,50);
-   layerFSR.fill(255,50);
-   //layerFSR.noFill();
-   //layerFSR.strokeWeight(10);
-   // layerFSR.line(width * 0.5, height * 0.5, x, y);
-    layerFSR.ellipse( x, y, 20, 20);
-    layerFSR.text('x',678,830);
+    layerFSR.stroke(255, 50);
+    layerFSR.fill(255, 50);
+    //layerFSR.noFill();
+    //layerFSR.strokeWeight(10);
+    // layerFSR.line(width * 0.5, height * 0.5, x, y);
+    layerFSR.ellipse(x, y, 20, 20);
+    layerFSR.text('x', width*0.8, height*0.95);
 
     let rady = map(dat.y, -300, 300, 0, width * 0.3);
     let x1 = width / 2 + rady * cos(radians(angle));
-    let y1 = height *0.4  + rady * sin(radians(angle));
+    let y1 = height * 0.4 + rady * sin(radians(angle));
 
-    layerY.stroke(255,50);
-    layerY.fill(255,50);
+    layerY.stroke(255, 50);
+    layerY.fill(255, 50);
     //layerY.noFill();
     //layerY.strokeWeight(10);
     //layerY.line(width * 0.5, height * 0.5, x1, y1);
-    layerY.ellipse(x1,y1, 20, 20);
-    layerY.text('y',835,790);
+    layerY.ellipse(x1, y1, 20, 20);
+    layerY.text('y', width*0.97, height*0.9);
 
     let radz = map(dat.z, -300, 300, 0, width * 0.3);
     let x2 = width / 2 + radz * cos(radians(angle));
-    let y2 = height *0.4  + radz * sin(radians(angle));
+    let y2 = height * 0.4 + radz * sin(radians(angle));
 
-    layerZ.stroke(255,50);
-    layerZ.fill(255,50);
+    layerZ.stroke(255, 50);
+    layerZ.fill(255, 50);
     //layerZ.noFill();
     //layerZ.strokeWeight(10);
-   // layerZ.line(width * 0.5, height * 0.5, x2, y2);
-    layerZ.ellipse(x2,y2, 20, 20);
-    layerZ.text('z',750,685);
+    // layerZ.line(width * 0.5, height * 0.5, x2, y2);
+    layerZ.ellipse(x2, y2, 20, 20);
+    layerZ.text('z', width*0.9, height*0.82);
 
 
   }
@@ -117,20 +117,20 @@ function drawViz() {
   info.fill(255);
   info.textStyle(BOLD);
   info.textFont('Arial');
-  info.textAlign(LEFT,CENTER);
+  info.textAlign(LEFT, CENTER);
   info.textSize(36);
-  info.text('"Tortillons" – Patterns',20,height *0.83);
-  info.text('Romane & Morgane', 40, height *0.87);
+  info.text('"Tortillons" – Patterns', 20, height * 0.83);
+  info.text('Romane & Morgane', 40, height * 0.87);
 
-info.textSize(20);
-info.textStyle(ITALIC);
-info.text('   10 octobre 2019 from 10:52:51 to 9:52:08 ', 0, height * 0.93);
-info.text('   Gyroscope accroché au bout de la mèche de cheveux.', 0, height * 0.96);
+  info.textSize(20);
+  info.textStyle(ITALIC);
+  info.text('   10 octobre 2019 from 10:52:51 to 9:52:08 ', 0, height * 0.93);
+  info.text('   Gyroscope accroché au bout de la mèche de cheveux.', 0, height * 0.96);
 
   back.cutout(layerFSR)
   back.cutout(layerY)
   back.cutout(layerZ)
- back.cutout(info)
+  back.cutout(info)
 
 
 
