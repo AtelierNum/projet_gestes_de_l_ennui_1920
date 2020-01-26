@@ -117,5 +117,5 @@ réalisé par : Vincent Harter et Ludivine Audren
 
 <img src="HARTER_VINCENT_LUDIVINE_AUDREN/capture.png" width="300" height="300" />
 
-[Cliquez ici pour voir la page](https://ateliernum.github.io/projet_gestes_de_l_ennui_1920/G1_CORNIER_VICTOR_XUAN_MENG_KAAN_NICOLAS/Code/index.html)
+[Cliquez ici pour voir la page](https://ateliernum.github.io/projet_gestes_de_l_ennui_1920/HARTER_VINCENT_LUDIVINE_AUDREN/Code/index.html)
 
