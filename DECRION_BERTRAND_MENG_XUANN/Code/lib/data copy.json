@@ -1,0 +1,4774 @@
+[
+  {
+    "luminosity": 432,
+    "timestamp": "2019-11-25-12-37-13-2390"
+  },
+  {
+    "luminosity": 432,
+    "timestamp": "2019-11-25-12-37-13-2398"
+  },
+  {
+    "luminosity": 432,
+    "timestamp": "2019-11-25-12-37-13-2400"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-13-2415"
+  },
+  {
+    "luminosity": 407,
+    "timestamp": "2019-11-25-12-37-13-2435"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-13-2461"
+  },
+  {
+    "luminosity": 383,
+    "timestamp": "2019-11-25-12-37-13-2481"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-13-2501"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-13-2523"
+  },
+  {
+    "luminosity": 370,
+    "timestamp": "2019-11-25-12-37-13-2543"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-13-2563"
+  },
+  {
+    "luminosity": 364,
+    "timestamp": "2019-11-25-12-37-13-2584"
+  },
+  {
+    "luminosity": 398,
+    "timestamp": "2019-11-25-12-37-13-2604"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-13-2626"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-13-2651"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-13-2666"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-13-2686"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-13-2711"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-13-2731"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-13-2751"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-13-2771"
+  },
+  {
+    "luminosity": 430,
+    "timestamp": "2019-11-25-12-37-13-2794"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-13-2813"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-13-2834"
+  },
+  {
+    "luminosity": 430,
+    "timestamp": "2019-11-25-12-37-13-2854"
+  },
+  {
+    "luminosity": 432,
+    "timestamp": "2019-11-25-12-37-13-2874"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-13-2895"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-13-2915"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-13-2936"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-13-2961"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-13-2981"
+  },
+  {
+    "luminosity": 435,
+    "timestamp": "2019-11-25-12-37-13-3001"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-13-3022"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-13-3042"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-13-3063"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-13-3083"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-13-3104"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-13-3125"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-13-3145"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-13-3165"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-13-3186"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-13-3211"
+  },
+  {
+    "luminosity": 454,
+    "timestamp": "2019-11-25-12-37-13-3231"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-13-3252"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-14-3272"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-14-3292"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-14-3312"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-14-3333"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-14-3354"
+  },
+  {
+    "luminosity": 451,
+    "timestamp": "2019-11-25-12-37-14-3374"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-14-3395"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-14-3415"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-14-3436"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-14-3461"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-14-3480"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-14-3501"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-14-3523"
+  },
+  {
+    "luminosity": 451,
+    "timestamp": "2019-11-25-12-37-14-3542"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-14-3563"
+  },
+  {
+    "luminosity": 447,
+    "timestamp": "2019-11-25-12-37-14-3583"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-14-3604"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-14-3623"
+  },
+  {
+    "luminosity": 440,
+    "timestamp": "2019-11-25-12-37-14-3645"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-14-3664"
+  },
+  {
+    "luminosity": 436,
+    "timestamp": "2019-11-25-12-37-14-3686"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-14-3710"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-14-3729"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-14-3751"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-14-3772"
+  },
+  {
+    "luminosity": 385,
+    "timestamp": "2019-11-25-12-37-14-3792"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-14-3813"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-14-3833"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-14-3853"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-14-3874"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-14-3895"
+  },
+  {
+    "luminosity": 532,
+    "timestamp": "2019-11-25-12-37-14-3918"
+  },
+  {
+    "luminosity": 547,
+    "timestamp": "2019-11-25-12-37-14-3937"
+  },
+  {
+    "luminosity": 562,
+    "timestamp": "2019-11-25-12-37-14-3982"
+  },
+  {
+    "luminosity": 580,
+    "timestamp": "2019-11-25-12-37-14-3989"
+  },
+  {
+    "luminosity": 588,
+    "timestamp": "2019-11-25-12-37-14-4002"
+  },
+  {
+    "luminosity": 594,
+    "timestamp": "2019-11-25-12-37-14-4020"
+  },
+  {
+    "luminosity": 602,
+    "timestamp": "2019-11-25-12-37-14-4041"
+  },
+  {
+    "luminosity": 613,
+    "timestamp": "2019-11-25-12-37-14-4061"
+  },
+  {
+    "luminosity": 620,
+    "timestamp": "2019-11-25-12-37-14-4086"
+  },
+  {
+    "luminosity": 624,
+    "timestamp": "2019-11-25-12-37-14-4106"
+  },
+  {
+    "luminosity": 631,
+    "timestamp": "2019-11-25-12-37-14-4125"
+  },
+  {
+    "luminosity": 640,
+    "timestamp": "2019-11-25-12-37-14-4143"
+  },
+  {
+    "luminosity": 649,
+    "timestamp": "2019-11-25-12-37-14-4166"
+  },
+  {
+    "luminosity": 653,
+    "timestamp": "2019-11-25-12-37-14-4186"
+  },
+  {
+    "luminosity": 660,
+    "timestamp": "2019-11-25-12-37-14-4210"
+  },
+  {
+    "luminosity": 669,
+    "timestamp": "2019-11-25-12-37-14-4230"
+  },
+  {
+    "luminosity": 668,
+    "timestamp": "2019-11-25-12-37-14-4252"
+  },
+  {
+    "luminosity": 655,
+    "timestamp": "2019-11-25-12-37-15-4270"
+  },
+  {
+    "luminosity": 645,
+    "timestamp": "2019-11-25-12-37-15-4291"
+  },
+  {
+    "luminosity": 637,
+    "timestamp": "2019-11-25-12-37-15-4313"
+  },
+  {
+    "luminosity": 622,
+    "timestamp": "2019-11-25-12-37-15-4332"
+  },
+  {
+    "luminosity": 605,
+    "timestamp": "2019-11-25-12-37-15-4353"
+  },
+  {
+    "luminosity": 596,
+    "timestamp": "2019-11-25-12-37-15-4373"
+  },
+  {
+    "luminosity": 589,
+    "timestamp": "2019-11-25-12-37-15-4393"
+  },
+  {
+    "luminosity": 575,
+    "timestamp": "2019-11-25-12-37-15-4416"
+  },
+  {
+    "luminosity": 562,
+    "timestamp": "2019-11-25-12-37-15-4435"
+  },
+  {
+    "luminosity": 553,
+    "timestamp": "2019-11-25-12-37-15-4460"
+  },
+  {
+    "luminosity": 547,
+    "timestamp": "2019-11-25-12-37-15-4480"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-15-4500"
+  },
+  {
+    "luminosity": 524,
+    "timestamp": "2019-11-25-12-37-15-4521"
+  },
+  {
+    "luminosity": 517,
+    "timestamp": "2019-11-25-12-37-15-4541"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-15-4562"
+  },
+  {
+    "luminosity": 501,
+    "timestamp": "2019-11-25-12-37-15-4586"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-15-4604"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-15-4623"
+  },
+  {
+    "luminosity": 489,
+    "timestamp": "2019-11-25-12-37-15-4644"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-15-4664"
+  },
+  {
+    "luminosity": 494,
+    "timestamp": "2019-11-25-12-37-15-4685"
+  },
+  {
+    "luminosity": 500,
+    "timestamp": "2019-11-25-12-37-15-4710"
+  },
+  {
+    "luminosity": 506,
+    "timestamp": "2019-11-25-12-37-15-4730"
+  },
+  {
+    "luminosity": 503,
+    "timestamp": "2019-11-25-12-37-15-4750"
+  },
+  {
+    "luminosity": 496,
+    "timestamp": "2019-11-25-12-37-15-4773"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-15-4791"
+  },
+  {
+    "luminosity": 489,
+    "timestamp": "2019-11-25-12-37-15-4812"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-15-4831"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-15-4853"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-15-4874"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-15-4894"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-15-4914"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-15-4935"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-15-4959"
+  },
+  {
+    "luminosity": 416,
+    "timestamp": "2019-11-25-12-37-15-4981"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-15-5000"
+  },
+  {
+    "luminosity": 372,
+    "timestamp": "2019-11-25-12-37-15-5020"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-15-5042"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-15-5061"
+  },
+  {
+    "luminosity": 373,
+    "timestamp": "2019-11-25-12-37-15-5082"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-15-5103"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-15-5122"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-15-5145"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-15-5164"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-15-5183"
+  },
+  {
+    "luminosity": 508,
+    "timestamp": "2019-11-25-12-37-15-5209"
+  },
+  {
+    "luminosity": 530,
+    "timestamp": "2019-11-25-12-37-15-5232"
+  },
+  {
+    "luminosity": 562,
+    "timestamp": "2019-11-25-12-37-15-5251"
+  },
+  {
+    "luminosity": 585,
+    "timestamp": "2019-11-25-12-37-16-5270"
+  },
+  {
+    "luminosity": 599,
+    "timestamp": "2019-11-25-12-37-16-5291"
+  },
+  {
+    "luminosity": 614,
+    "timestamp": "2019-11-25-12-37-16-5312"
+  },
+  {
+    "luminosity": 632,
+    "timestamp": "2019-11-25-12-37-16-5331"
+  },
+  {
+    "luminosity": 642,
+    "timestamp": "2019-11-25-12-37-16-5352"
+  },
+  {
+    "luminosity": 646,
+    "timestamp": "2019-11-25-12-37-16-5372"
+  },
+  {
+    "luminosity": 652,
+    "timestamp": "2019-11-25-12-37-16-5394"
+  },
+  {
+    "luminosity": 659,
+    "timestamp": "2019-11-25-12-37-16-5414"
+  },
+  {
+    "luminosity": 664,
+    "timestamp": "2019-11-25-12-37-16-5436"
+  },
+  {
+    "luminosity": 663,
+    "timestamp": "2019-11-25-12-37-16-5459"
+  },
+  {
+    "luminosity": 665,
+    "timestamp": "2019-11-25-12-37-16-5479"
+  },
+  {
+    "luminosity": 671,
+    "timestamp": "2019-11-25-12-37-16-5500"
+  },
+  {
+    "luminosity": 675,
+    "timestamp": "2019-11-25-12-37-16-5521"
+  },
+  {
+    "luminosity": 669,
+    "timestamp": "2019-11-25-12-37-16-5540"
+  },
+  {
+    "luminosity": 659,
+    "timestamp": "2019-11-25-12-37-16-5562"
+  },
+  {
+    "luminosity": 616,
+    "timestamp": "2019-11-25-12-37-16-5581"
+  },
+  {
+    "luminosity": 587,
+    "timestamp": "2019-11-25-12-37-16-5602"
+  },
+  {
+    "luminosity": 567,
+    "timestamp": "2019-11-25-12-37-16-5622"
+  },
+  {
+    "luminosity": 556,
+    "timestamp": "2019-11-25-12-37-16-5646"
+  },
+  {
+    "luminosity": 550,
+    "timestamp": "2019-11-25-12-37-16-5664"
+  },
+  {
+    "luminosity": 540,
+    "timestamp": "2019-11-25-12-37-16-5684"
+  },
+  {
+    "luminosity": 529,
+    "timestamp": "2019-11-25-12-37-16-5709"
+  },
+  {
+    "luminosity": 525,
+    "timestamp": "2019-11-25-12-37-16-5728"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-16-5749"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-16-5769"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-16-5791"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-16-5811"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-16-5832"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-16-5851"
+  },
+  {
+    "luminosity": 442,
+    "timestamp": "2019-11-25-12-37-16-5872"
+  },
+  {
+    "luminosity": 439,
+    "timestamp": "2019-11-25-12-37-16-5892"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-16-5914"
+  },
+  {
+    "luminosity": 435,
+    "timestamp": "2019-11-25-12-37-16-5933"
+  },
+  {
+    "luminosity": 430,
+    "timestamp": "2019-11-25-12-37-16-5959"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-16-5985"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-16-5999"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-16-6019"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-16-6040"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-16-6061"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-16-6080"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-16-6102"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-16-6122"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-16-6146"
+  },
+  {
+    "luminosity": 410,
+    "timestamp": "2019-11-25-12-37-16-6163"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-16-6183"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-16-6207"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-16-6229"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-16-6249"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-17-6270"
+  },
+  {
+    "luminosity": 343,
+    "timestamp": "2019-11-25-12-37-17-6290"
+  },
+  {
+    "luminosity": 336,
+    "timestamp": "2019-11-25-12-37-17-6311"
+  },
+  {
+    "luminosity": 333,
+    "timestamp": "2019-11-25-12-37-17-6331"
+  },
+  {
+    "luminosity": 329,
+    "timestamp": "2019-11-25-12-37-17-6351"
+  },
+  {
+    "luminosity": 343,
+    "timestamp": "2019-11-25-12-37-17-6372"
+  },
+  {
+    "luminosity": 348,
+    "timestamp": "2019-11-25-12-37-17-6394"
+  },
+  {
+    "luminosity": 352,
+    "timestamp": "2019-11-25-12-37-17-6412"
+  },
+  {
+    "luminosity": 359,
+    "timestamp": "2019-11-25-12-37-17-6433"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-17-6458"
+  },
+  {
+    "luminosity": 372,
+    "timestamp": "2019-11-25-12-37-17-6478"
+  },
+  {
+    "luminosity": 379,
+    "timestamp": "2019-11-25-12-37-17-6498"
+  },
+  {
+    "luminosity": 388,
+    "timestamp": "2019-11-25-12-37-17-6519"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-17-6540"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-6560"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-17-6580"
+  },
+  {
+    "luminosity": 406,
+    "timestamp": "2019-11-25-12-37-17-6601"
+  },
+  {
+    "luminosity": 408,
+    "timestamp": "2019-11-25-12-37-17-6621"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-17-6643"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-17-6663"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-17-6683"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-17-6707"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-17-6728"
+  },
+  {
+    "luminosity": 402,
+    "timestamp": "2019-11-25-12-37-17-6748"
+  },
+  {
+    "luminosity": 402,
+    "timestamp": "2019-11-25-12-37-17-6770"
+  },
+  {
+    "luminosity": 401,
+    "timestamp": "2019-11-25-12-37-17-6789"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-6811"
+  },
+  {
+    "luminosity": 395,
+    "timestamp": "2019-11-25-12-37-17-6830"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-6851"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-6871"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-17-6892"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-6913"
+  },
+  {
+    "luminosity": 401,
+    "timestamp": "2019-11-25-12-37-17-6933"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-17-6957"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-17-6978"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-17-6999"
+  },
+  {
+    "luminosity": 407,
+    "timestamp": "2019-11-25-12-37-17-7019"
+  },
+  {
+    "luminosity": 407,
+    "timestamp": "2019-11-25-12-37-17-7039"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-17-7060"
+  },
+  {
+    "luminosity": 402,
+    "timestamp": "2019-11-25-12-37-17-7081"
+  },
+  {
+    "luminosity": 402,
+    "timestamp": "2019-11-25-12-37-17-7102"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-17-7122"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-17-7142"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-17-7162"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-17-7184"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-17-7207"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-17-7227"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-17-7248"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-18-7269"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-18-7290"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-18-7311"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-18-7330"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-18-7350"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-18-7371"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-18-7393"
+  },
+  {
+    "luminosity": 386,
+    "timestamp": "2019-11-25-12-37-18-7412"
+  },
+  {
+    "luminosity": 377,
+    "timestamp": "2019-11-25-12-37-18-7433"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-18-7457"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-18-7477"
+  },
+  {
+    "luminosity": 351,
+    "timestamp": "2019-11-25-12-37-18-7498"
+  },
+  {
+    "luminosity": 348,
+    "timestamp": "2019-11-25-12-37-18-7519"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-18-7539"
+  },
+  {
+    "luminosity": 507,
+    "timestamp": "2019-11-25-12-37-18-7559"
+  },
+  {
+    "luminosity": 533,
+    "timestamp": "2019-11-25-12-37-18-7579"
+  },
+  {
+    "luminosity": 557,
+    "timestamp": "2019-11-25-12-37-18-7601"
+  },
+  {
+    "luminosity": 585,
+    "timestamp": "2019-11-25-12-37-18-7622"
+  },
+  {
+    "luminosity": 607,
+    "timestamp": "2019-11-25-12-37-18-7643"
+  },
+  {
+    "luminosity": 616,
+    "timestamp": "2019-11-25-12-37-18-7662"
+  },
+  {
+    "luminosity": 623,
+    "timestamp": "2019-11-25-12-37-18-7683"
+  },
+  {
+    "luminosity": 633,
+    "timestamp": "2019-11-25-12-37-18-7708"
+  },
+  {
+    "luminosity": 636,
+    "timestamp": "2019-11-25-12-37-18-7728"
+  },
+  {
+    "luminosity": 630,
+    "timestamp": "2019-11-25-12-37-18-7748"
+  },
+  {
+    "luminosity": 619,
+    "timestamp": "2019-11-25-12-37-18-7768"
+  },
+  {
+    "luminosity": 609,
+    "timestamp": "2019-11-25-12-37-18-7790"
+  },
+  {
+    "luminosity": 594,
+    "timestamp": "2019-11-25-12-37-18-7810"
+  },
+  {
+    "luminosity": 572,
+    "timestamp": "2019-11-25-12-37-18-7831"
+  },
+  {
+    "luminosity": 555,
+    "timestamp": "2019-11-25-12-37-18-7850"
+  },
+  {
+    "luminosity": 544,
+    "timestamp": "2019-11-25-12-37-18-7871"
+  },
+  {
+    "luminosity": 530,
+    "timestamp": "2019-11-25-12-37-18-7891"
+  },
+  {
+    "luminosity": 513,
+    "timestamp": "2019-11-25-12-37-18-7912"
+  },
+  {
+    "luminosity": 501,
+    "timestamp": "2019-11-25-12-37-18-7932"
+  },
+  {
+    "luminosity": 493,
+    "timestamp": "2019-11-25-12-37-18-7957"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-18-7978"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-18-7997"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-18-8018"
+  },
+  {
+    "luminosity": 456,
+    "timestamp": "2019-11-25-12-37-18-8038"
+  },
+  {
+    "luminosity": 447,
+    "timestamp": "2019-11-25-12-37-18-8059"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-18-8079"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-18-8100"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-18-8121"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-18-8142"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-18-8162"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-18-8183"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-18-8206"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-18-8228"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-18-8248"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-19-8268"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-19-8288"
+  },
+  {
+    "luminosity": 421,
+    "timestamp": "2019-11-25-12-37-19-8310"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-19-8330"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-19-8351"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-19-8370"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-19-8392"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-19-8412"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-19-8432"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-19-8457"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-19-8477"
+  },
+  {
+    "luminosity": 406,
+    "timestamp": "2019-11-25-12-37-19-8497"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-19-8518"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-19-8539"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-19-8559"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-19-8579"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-19-8599"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-19-8621"
+  },
+  {
+    "luminosity": 401,
+    "timestamp": "2019-11-25-12-37-19-8641"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-19-8661"
+  },
+  {
+    "luminosity": 398,
+    "timestamp": "2019-11-25-12-37-19-8682"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-19-8706"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-19-8726"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-19-8747"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-19-8769"
+  },
+  {
+    "luminosity": 408,
+    "timestamp": "2019-11-25-12-37-19-8788"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-19-8809"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-19-8829"
+  },
+  {
+    "luminosity": 389,
+    "timestamp": "2019-11-25-12-37-19-8850"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-19-8871"
+  },
+  {
+    "luminosity": 407,
+    "timestamp": "2019-11-25-12-37-19-8891"
+  },
+  {
+    "luminosity": 447,
+    "timestamp": "2019-11-25-12-37-19-8912"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-19-8931"
+  },
+  {
+    "luminosity": 508,
+    "timestamp": "2019-11-25-12-37-19-8956"
+  },
+  {
+    "luminosity": 528,
+    "timestamp": "2019-11-25-12-37-19-8976"
+  },
+  {
+    "luminosity": 547,
+    "timestamp": "2019-11-25-12-37-19-8998"
+  },
+  {
+    "luminosity": 552,
+    "timestamp": "2019-11-25-12-37-19-9018"
+  },
+  {
+    "luminosity": 555,
+    "timestamp": "2019-11-25-12-37-19-9038"
+  },
+  {
+    "luminosity": 558,
+    "timestamp": "2019-11-25-12-37-19-9060"
+  },
+  {
+    "luminosity": 554,
+    "timestamp": "2019-11-25-12-37-19-9079"
+  },
+  {
+    "luminosity": 544,
+    "timestamp": "2019-11-25-12-37-19-9100"
+  },
+  {
+    "luminosity": 538,
+    "timestamp": "2019-11-25-12-37-19-9120"
+  },
+  {
+    "luminosity": 537,
+    "timestamp": "2019-11-25-12-37-19-9141"
+  },
+  {
+    "luminosity": 529,
+    "timestamp": "2019-11-25-12-37-19-9161"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-19-9186"
+  },
+  {
+    "luminosity": 498,
+    "timestamp": "2019-11-25-12-37-19-9207"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-19-9227"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-19-9248"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-20-9268"
+  },
+  {
+    "luminosity": 454,
+    "timestamp": "2019-11-25-12-37-20-9289"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-20-9308"
+  },
+  {
+    "luminosity": 440,
+    "timestamp": "2019-11-25-12-37-20-9329"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-20-9350"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-20-9371"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-20-9391"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-20-9410"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-20-9436"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-20-9455"
+  },
+  {
+    "luminosity": 390,
+    "timestamp": "2019-11-25-12-37-20-9477"
+  },
+  {
+    "luminosity": 386,
+    "timestamp": "2019-11-25-12-37-20-9497"
+  },
+  {
+    "luminosity": 380,
+    "timestamp": "2019-11-25-12-37-20-9517"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-20-9538"
+  },
+  {
+    "luminosity": 373,
+    "timestamp": "2019-11-25-12-37-20-9559"
+  },
+  {
+    "luminosity": 371,
+    "timestamp": "2019-11-25-12-37-20-9578"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-20-9600"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-20-9620"
+  },
+  {
+    "luminosity": 361,
+    "timestamp": "2019-11-25-12-37-20-9640"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-20-9662"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-20-9686"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-20-9706"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-20-9726"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-20-9748"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-20-9767"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-20-9787"
+  },
+  {
+    "luminosity": 371,
+    "timestamp": "2019-11-25-12-37-20-9808"
+  },
+  {
+    "luminosity": 372,
+    "timestamp": "2019-11-25-12-37-20-9828"
+  },
+  {
+    "luminosity": 373,
+    "timestamp": "2019-11-25-12-37-20-9849"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-20-9870"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-20-9892"
+  },
+  {
+    "luminosity": 379,
+    "timestamp": "2019-11-25-12-37-20-9911"
+  },
+  {
+    "luminosity": 380,
+    "timestamp": "2019-11-25-12-37-20-9936"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-20-9956"
+  },
+  {
+    "luminosity": 384,
+    "timestamp": "2019-11-25-12-37-20-9977"
+  },
+  {
+    "luminosity": 389,
+    "timestamp": "2019-11-25-12-37-20-9998"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-20-10017"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-20-10037"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-20-10059"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-20-10079"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-20-10100"
+  },
+  {
+    "luminosity": 421,
+    "timestamp": "2019-11-25-12-37-20-10119"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-20-10140"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-20-10160"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-20-10185"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-20-10205"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-20-10226"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-20-10246"
+  },
+  {
+    "luminosity": 421,
+    "timestamp": "2019-11-25-12-37-21-10268"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-21-10289"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-21-10308"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-21-10329"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-21-10349"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-21-10370"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-21-10390"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-21-10411"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-21-10435"
+  },
+  {
+    "luminosity": 414,
+    "timestamp": "2019-11-25-12-37-21-10455"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-21-10477"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-21-10496"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-21-10517"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-21-10537"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-21-10559"
+  },
+  {
+    "luminosity": 456,
+    "timestamp": "2019-11-25-12-37-21-10579"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-21-10600"
+  },
+  {
+    "luminosity": 513,
+    "timestamp": "2019-11-25-12-37-21-10620"
+  },
+  {
+    "luminosity": 560,
+    "timestamp": "2019-11-25-12-37-21-10640"
+  },
+  {
+    "luminosity": 607,
+    "timestamp": "2019-11-25-12-37-21-10661"
+  },
+  {
+    "luminosity": 669,
+    "timestamp": "2019-11-25-12-37-21-10685"
+  },
+  {
+    "luminosity": 697,
+    "timestamp": "2019-11-25-12-37-21-10706"
+  },
+  {
+    "luminosity": 712,
+    "timestamp": "2019-11-25-12-37-21-10727"
+  },
+  {
+    "luminosity": 705,
+    "timestamp": "2019-11-25-12-37-21-10746"
+  },
+  {
+    "luminosity": 683,
+    "timestamp": "2019-11-25-12-37-21-10768"
+  },
+  {
+    "luminosity": 634,
+    "timestamp": "2019-11-25-12-37-21-10787"
+  },
+  {
+    "luminosity": 587,
+    "timestamp": "2019-11-25-12-37-21-10808"
+  },
+  {
+    "luminosity": 549,
+    "timestamp": "2019-11-25-12-37-21-10828"
+  },
+  {
+    "luminosity": 519,
+    "timestamp": "2019-11-25-12-37-21-10848"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-21-10869"
+  },
+  {
+    "luminosity": 447,
+    "timestamp": "2019-11-25-12-37-21-10890"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-21-10910"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-21-10935"
+  },
+  {
+    "luminosity": 388,
+    "timestamp": "2019-11-25-12-37-21-10955"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-21-10977"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-21-10997"
+  },
+  {
+    "luminosity": 361,
+    "timestamp": "2019-11-25-12-37-21-11016"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-21-11037"
+  },
+  {
+    "luminosity": 347,
+    "timestamp": "2019-11-25-12-37-21-11057"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-21-11079"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-21-11098"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-21-11120"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-21-11140"
+  },
+  {
+    "luminosity": 364,
+    "timestamp": "2019-11-25-12-37-21-11159"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-21-11185"
+  },
+  {
+    "luminosity": 371,
+    "timestamp": "2019-11-25-12-37-21-11204"
+  },
+  {
+    "luminosity": 373,
+    "timestamp": "2019-11-25-12-37-21-11226"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-21-11246"
+  },
+  {
+    "luminosity": 382,
+    "timestamp": "2019-11-25-12-37-22-11267"
+  },
+  {
+    "luminosity": 387,
+    "timestamp": "2019-11-25-12-37-22-11286"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-22-11308"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-22-11328"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-22-11348"
+  },
+  {
+    "luminosity": 406,
+    "timestamp": "2019-11-25-12-37-22-11370"
+  },
+  {
+    "luminosity": 410,
+    "timestamp": "2019-11-25-12-37-22-11390"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-22-11410"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-22-11434"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-22-11455"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-22-11476"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-22-11496"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-22-11516"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-22-11537"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-22-11557"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-22-11577"
+  },
+  {
+    "luminosity": 454,
+    "timestamp": "2019-11-25-12-37-22-11598"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-22-11618"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-22-11641"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-22-11660"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-22-11685"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-22-11705"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-22-11725"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-22-11746"
+  },
+  {
+    "luminosity": 468,
+    "timestamp": "2019-11-25-12-37-22-11766"
+  },
+  {
+    "luminosity": 473,
+    "timestamp": "2019-11-25-12-37-22-11786"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-22-11808"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-22-11829"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-22-11848"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-22-11868"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-22-11888"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-22-11910"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-22-11935"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-22-11954"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-22-11976"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-22-11996"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-22-12015"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-22-12036"
+  },
+  {
+    "luminosity": 473,
+    "timestamp": "2019-11-25-12-37-22-12057"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-22-12078"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-22-12098"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-22-12118"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-22-12139"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-22-12160"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-22-12185"
+  },
+  {
+    "luminosity": 387,
+    "timestamp": "2019-11-25-12-37-22-12204"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-22-12225"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-22-12247"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-23-12267"
+  },
+  {
+    "luminosity": 345,
+    "timestamp": "2019-11-25-12-37-23-12288"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-23-12308"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-23-12328"
+  },
+  {
+    "luminosity": 389,
+    "timestamp": "2019-11-25-12-37-23-12348"
+  },
+  {
+    "luminosity": 398,
+    "timestamp": "2019-11-25-12-37-23-12368"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-23-12389"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-23-12410"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-23-12434"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-23-12454"
+  },
+  {
+    "luminosity": 439,
+    "timestamp": "2019-11-25-12-37-23-12475"
+  },
+  {
+    "luminosity": 434,
+    "timestamp": "2019-11-25-12-37-23-12497"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-23-12516"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-23-12536"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-23-12557"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-23-12577"
+  },
+  {
+    "luminosity": 410,
+    "timestamp": "2019-11-25-12-37-23-12598"
+  },
+  {
+    "luminosity": 407,
+    "timestamp": "2019-11-25-12-37-23-12619"
+  },
+  {
+    "luminosity": 402,
+    "timestamp": "2019-11-25-12-37-23-12640"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-23-12660"
+  },
+  {
+    "luminosity": 388,
+    "timestamp": "2019-11-25-12-37-23-12684"
+  },
+  {
+    "luminosity": 385,
+    "timestamp": "2019-11-25-12-37-23-12705"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-23-12726"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-23-12746"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12766"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12786"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12807"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-23-12828"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-23-12847"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-23-12868"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12888"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12909"
+  },
+  {
+    "luminosity": 376,
+    "timestamp": "2019-11-25-12-37-23-12934"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-23-12954"
+  },
+  {
+    "luminosity": 380,
+    "timestamp": "2019-11-25-12-37-23-12975"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-23-12997"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-23-13016"
+  },
+  {
+    "luminosity": 383,
+    "timestamp": "2019-11-25-12-37-23-13036"
+  },
+  {
+    "luminosity": 385,
+    "timestamp": "2019-11-25-12-37-23-13056"
+  },
+  {
+    "luminosity": 388,
+    "timestamp": "2019-11-25-12-37-23-13078"
+  },
+  {
+    "luminosity": 389,
+    "timestamp": "2019-11-25-12-37-23-13098"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-23-13117"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-23-13138"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-23-13159"
+  },
+  {
+    "luminosity": 401,
+    "timestamp": "2019-11-25-12-37-23-13183"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-23-13204"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-23-13225"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-23-13245"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-24-13266"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-24-13285"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-24-13307"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-24-13327"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-24-13348"
+  },
+  {
+    "luminosity": 421,
+    "timestamp": "2019-11-25-12-37-24-13368"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-24-13388"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-24-13409"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-24-13433"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-24-13454"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-24-13475"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-24-13496"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-24-13515"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-24-13536"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-24-13556"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-24-13578"
+  },
+  {
+    "luminosity": 430,
+    "timestamp": "2019-11-25-12-37-24-13598"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-24-13618"
+  },
+  {
+    "luminosity": 435,
+    "timestamp": "2019-11-25-12-37-24-13638"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-24-13659"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-24-13683"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-24-13703"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-24-13725"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-24-13746"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-24-13765"
+  },
+  {
+    "luminosity": 484,
+    "timestamp": "2019-11-25-12-37-24-13786"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-24-13806"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-24-13829"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-24-13847"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-24-13867"
+  },
+  {
+    "luminosity": 410,
+    "timestamp": "2019-11-25-12-37-24-13889"
+  },
+  {
+    "luminosity": 396,
+    "timestamp": "2019-11-25-12-37-24-13910"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-24-13933"
+  },
+  {
+    "luminosity": 397,
+    "timestamp": "2019-11-25-12-37-24-13953"
+  },
+  {
+    "luminosity": 404,
+    "timestamp": "2019-11-25-12-37-24-13975"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-24-13995"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-24-14016"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-24-14035"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-24-14056"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-24-14076"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-24-14097"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-24-14117"
+  },
+  {
+    "luminosity": 500,
+    "timestamp": "2019-11-25-12-37-24-14139"
+  },
+  {
+    "luminosity": 513,
+    "timestamp": "2019-11-25-12-37-24-14159"
+  },
+  {
+    "luminosity": 519,
+    "timestamp": "2019-11-25-12-37-24-14183"
+  },
+  {
+    "luminosity": 521,
+    "timestamp": "2019-11-25-12-37-24-14203"
+  },
+  {
+    "luminosity": 524,
+    "timestamp": "2019-11-25-12-37-24-14223"
+  },
+  {
+    "luminosity": 532,
+    "timestamp": "2019-11-25-12-37-24-14245"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-25-14265"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-25-14285"
+  },
+  {
+    "luminosity": 537,
+    "timestamp": "2019-11-25-12-37-25-14305"
+  },
+  {
+    "luminosity": 542,
+    "timestamp": "2019-11-25-12-37-25-14326"
+  },
+  {
+    "luminosity": 543,
+    "timestamp": "2019-11-25-12-37-25-14346"
+  },
+  {
+    "luminosity": 533,
+    "timestamp": "2019-11-25-12-37-25-14367"
+  },
+  {
+    "luminosity": 527,
+    "timestamp": "2019-11-25-12-37-25-14387"
+  },
+  {
+    "luminosity": 526,
+    "timestamp": "2019-11-25-12-37-25-14408"
+  },
+  {
+    "luminosity": 524,
+    "timestamp": "2019-11-25-12-37-25-14434"
+  },
+  {
+    "luminosity": 513,
+    "timestamp": "2019-11-25-12-37-25-14454"
+  },
+  {
+    "luminosity": 508,
+    "timestamp": "2019-11-25-12-37-25-14474"
+  },
+  {
+    "luminosity": 504,
+    "timestamp": "2019-11-25-12-37-25-14494"
+  },
+  {
+    "luminosity": 501,
+    "timestamp": "2019-11-25-12-37-25-14516"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-25-14536"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-25-14556"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-25-14577"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-25-14597"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-25-14618"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-25-14638"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-25-14659"
+  },
+  {
+    "luminosity": 459,
+    "timestamp": "2019-11-25-12-37-25-14683"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-25-14703"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-25-14723"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-25-14745"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-25-14765"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-25-14785"
+  },
+  {
+    "luminosity": 435,
+    "timestamp": "2019-11-25-12-37-25-14807"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-25-14827"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-25-14846"
+  },
+  {
+    "luminosity": 426,
+    "timestamp": "2019-11-25-12-37-25-14868"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-25-14888"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-25-14909"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-25-14933"
+  },
+  {
+    "luminosity": 434,
+    "timestamp": "2019-11-25-12-37-25-14953"
+  },
+  {
+    "luminosity": 440,
+    "timestamp": "2019-11-25-12-37-25-14973"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-25-14995"
+  },
+  {
+    "luminosity": 442,
+    "timestamp": "2019-11-25-12-37-25-15015"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-25-15036"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-25-15055"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-25-15077"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-25-15097"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-25-15116"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-25-15137"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-25-15157"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-25-15182"
+  },
+  {
+    "luminosity": 423,
+    "timestamp": "2019-11-25-12-37-25-15203"
+  },
+  {
+    "luminosity": 419,
+    "timestamp": "2019-11-25-12-37-25-15224"
+  },
+  {
+    "luminosity": 409,
+    "timestamp": "2019-11-25-12-37-25-15243"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-26-15265"
+  },
+  {
+    "luminosity": 382,
+    "timestamp": "2019-11-25-12-37-26-15286"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-26-15305"
+  },
+  {
+    "luminosity": 359,
+    "timestamp": "2019-11-25-12-37-26-15325"
+  },
+  {
+    "luminosity": 346,
+    "timestamp": "2019-11-25-12-37-26-15347"
+  },
+  {
+    "luminosity": 339,
+    "timestamp": "2019-11-25-12-37-26-15368"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-26-15387"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-26-15408"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-26-15432"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-26-15453"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-26-15473"
+  },
+  {
+    "luminosity": 529,
+    "timestamp": "2019-11-25-12-37-26-15494"
+  },
+  {
+    "luminosity": 539,
+    "timestamp": "2019-11-25-12-37-26-15514"
+  },
+  {
+    "luminosity": 544,
+    "timestamp": "2019-11-25-12-37-26-15535"
+  },
+  {
+    "luminosity": 529,
+    "timestamp": "2019-11-25-12-37-26-15555"
+  },
+  {
+    "luminosity": 517,
+    "timestamp": "2019-11-25-12-37-26-15576"
+  },
+  {
+    "luminosity": 508,
+    "timestamp": "2019-11-25-12-37-26-15596"
+  },
+  {
+    "luminosity": 493,
+    "timestamp": "2019-11-25-12-37-26-15616"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-26-15637"
+  },
+  {
+    "luminosity": 456,
+    "timestamp": "2019-11-25-12-37-26-15657"
+  },
+  {
+    "luminosity": 445,
+    "timestamp": "2019-11-25-12-37-26-15681"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-26-15703"
+  },
+  {
+    "luminosity": 416,
+    "timestamp": "2019-11-25-12-37-26-15722"
+  },
+  {
+    "luminosity": 406,
+    "timestamp": "2019-11-25-12-37-26-15743"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-26-15764"
+  },
+  {
+    "luminosity": 388,
+    "timestamp": "2019-11-25-12-37-26-15785"
+  },
+  {
+    "luminosity": 380,
+    "timestamp": "2019-11-25-12-37-26-15806"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-26-15826"
+  },
+  {
+    "luminosity": 371,
+    "timestamp": "2019-11-25-12-37-26-15846"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-26-15866"
+  },
+  {
+    "luminosity": 361,
+    "timestamp": "2019-11-25-12-37-26-15887"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-26-15910"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-26-15933"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-26-15952"
+  },
+  {
+    "luminosity": 351,
+    "timestamp": "2019-11-25-12-37-26-15973"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-26-15993"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-26-16014"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-26-16034"
+  },
+  {
+    "luminosity": 347,
+    "timestamp": "2019-11-25-12-37-26-16055"
+  },
+  {
+    "luminosity": 346,
+    "timestamp": "2019-11-25-12-37-26-16076"
+  },
+  {
+    "luminosity": 348,
+    "timestamp": "2019-11-25-12-37-26-16097"
+  },
+  {
+    "luminosity": 350,
+    "timestamp": "2019-11-25-12-37-26-16116"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-26-16136"
+  },
+  {
+    "luminosity": 350,
+    "timestamp": "2019-11-25-12-37-26-16157"
+  },
+  {
+    "luminosity": 352,
+    "timestamp": "2019-11-25-12-37-26-16182"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-26-16202"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-26-16224"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-26-16244"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-27-16264"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-27-16286"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-27-16305"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-27-16326"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-27-16345"
+  },
+  {
+    "luminosity": 362,
+    "timestamp": "2019-11-25-12-37-27-16366"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-27-16387"
+  },
+  {
+    "luminosity": 364,
+    "timestamp": "2019-11-25-12-37-27-16407"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-27-16432"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-27-16451"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-27-16472"
+  },
+  {
+    "luminosity": 369,
+    "timestamp": "2019-11-25-12-37-27-16494"
+  },
+  {
+    "luminosity": 372,
+    "timestamp": "2019-11-25-12-37-27-16515"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-27-16535"
+  },
+  {
+    "luminosity": 377,
+    "timestamp": "2019-11-25-12-37-27-16554"
+  },
+  {
+    "luminosity": 377,
+    "timestamp": "2019-11-25-12-37-27-16575"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-27-16596"
+  },
+  {
+    "luminosity": 380,
+    "timestamp": "2019-11-25-12-37-27-16616"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-27-16638"
+  },
+  {
+    "luminosity": 373,
+    "timestamp": "2019-11-25-12-37-27-16658"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-27-16681"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-27-16703"
+  },
+  {
+    "luminosity": 364,
+    "timestamp": "2019-11-25-12-37-27-16722"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-27-16743"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-27-16763"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-27-16784"
+  },
+  {
+    "luminosity": 384,
+    "timestamp": "2019-11-25-12-37-27-16804"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-27-16825"
+  },
+  {
+    "luminosity": 379,
+    "timestamp": "2019-11-25-12-37-27-16846"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-27-16866"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-27-16887"
+  },
+  {
+    "luminosity": 370,
+    "timestamp": "2019-11-25-12-37-27-16907"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-27-16932"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-27-16952"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-27-16972"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-27-16993"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-27-17013"
+  },
+  {
+    "luminosity": 370,
+    "timestamp": "2019-11-25-12-37-27-17033"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-27-17054"
+  },
+  {
+    "luminosity": 382,
+    "timestamp": "2019-11-25-12-37-27-17074"
+  },
+  {
+    "luminosity": 387,
+    "timestamp": "2019-11-25-12-37-27-17096"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-27-17117"
+  },
+  {
+    "luminosity": 398,
+    "timestamp": "2019-11-25-12-37-27-17136"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-27-17157"
+  },
+  {
+    "luminosity": 410,
+    "timestamp": "2019-11-25-12-37-27-17182"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-27-17202"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-27-17222"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-27-17242"
+  },
+  {
+    "luminosity": 431,
+    "timestamp": "2019-11-25-12-37-28-17263"
+  },
+  {
+    "luminosity": 436,
+    "timestamp": "2019-11-25-12-37-28-17284"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-28-17305"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-28-17325"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-28-17345"
+  },
+  {
+    "luminosity": 454,
+    "timestamp": "2019-11-25-12-37-28-17366"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-28-17386"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-28-17408"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-28-17430"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-28-17452"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17472"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-28-17492"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17513"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17535"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-28-17555"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-28-17575"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17595"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-28-17617"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-28-17637"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-28-17657"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-28-17681"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-28-17701"
+  },
+  {
+    "luminosity": 459,
+    "timestamp": "2019-11-25-12-37-28-17722"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-28-17742"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-28-17763"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-28-17783"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-28-17805"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17825"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-28-17844"
+  },
+  {
+    "luminosity": 468,
+    "timestamp": "2019-11-25-12-37-28-17866"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-28-17886"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-28-17910"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-28-17931"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-28-17952"
+  },
+  {
+    "luminosity": 490,
+    "timestamp": "2019-11-25-12-37-28-17972"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-28-17992"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-28-18013"
+  },
+  {
+    "luminosity": 487,
+    "timestamp": "2019-11-25-12-37-28-18033"
+  },
+  {
+    "luminosity": 487,
+    "timestamp": "2019-11-25-12-37-28-18054"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-28-18075"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-28-18094"
+  },
+  {
+    "luminosity": 484,
+    "timestamp": "2019-11-25-12-37-28-18115"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-28-18136"
+  },
+  {
+    "luminosity": 489,
+    "timestamp": "2019-11-25-12-37-28-18160"
+  },
+  {
+    "luminosity": 490,
+    "timestamp": "2019-11-25-12-37-28-18180"
+  },
+  {
+    "luminosity": 487,
+    "timestamp": "2019-11-25-12-37-28-18202"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-28-18223"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-28-18242"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-29-18262"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-29-18283"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-29-18304"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-29-18324"
+  },
+  {
+    "luminosity": 436,
+    "timestamp": "2019-11-25-12-37-29-18345"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-29-18365"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-29-18385"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-29-18410"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-29-18431"
+  },
+  {
+    "luminosity": 383,
+    "timestamp": "2019-11-25-12-37-29-18452"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-29-18471"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-29-18493"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-29-18515"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-29-18533"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-29-18554"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-29-18574"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-29-18594"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-29-18615"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-29-18636"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-29-18661"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18680"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-18700"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-18721"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18743"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-18763"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-29-18782"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-29-18804"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18823"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18845"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-18864"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-29-18886"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18911"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18931"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18951"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-18971"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-18992"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-29-19013"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-29-19033"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-29-19053"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-29-19074"
+  },
+  {
+    "luminosity": 436,
+    "timestamp": "2019-11-25-12-37-29-19098"
+  },
+  {
+    "luminosity": 579,
+    "timestamp": "2019-11-25-12-37-29-19115"
+  },
+  {
+    "luminosity": 588,
+    "timestamp": "2019-11-25-12-37-29-19135"
+  },
+  {
+    "luminosity": 588,
+    "timestamp": "2019-11-25-12-37-29-19161"
+  },
+  {
+    "luminosity": 588,
+    "timestamp": "2019-11-25-12-37-29-19180"
+  },
+  {
+    "luminosity": 579,
+    "timestamp": "2019-11-25-12-37-29-19201"
+  },
+  {
+    "luminosity": 571,
+    "timestamp": "2019-11-25-12-37-29-19221"
+  },
+  {
+    "luminosity": 566,
+    "timestamp": "2019-11-25-12-37-29-19242"
+  },
+  {
+    "luminosity": 563,
+    "timestamp": "2019-11-25-12-37-30-19262"
+  },
+  {
+    "luminosity": 552,
+    "timestamp": "2019-11-25-12-37-30-19283"
+  },
+  {
+    "luminosity": 545,
+    "timestamp": "2019-11-25-12-37-30-19304"
+  },
+  {
+    "luminosity": 548,
+    "timestamp": "2019-11-25-12-37-30-19324"
+  },
+  {
+    "luminosity": 558,
+    "timestamp": "2019-11-25-12-37-30-19345"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-30-19364"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-30-19384"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-30-19410"
+  },
+  {
+    "luminosity": 565,
+    "timestamp": "2019-11-25-12-37-30-19430"
+  },
+  {
+    "luminosity": 561,
+    "timestamp": "2019-11-25-12-37-30-19450"
+  },
+  {
+    "luminosity": 555,
+    "timestamp": "2019-11-25-12-37-30-19470"
+  },
+  {
+    "luminosity": 553,
+    "timestamp": "2019-11-25-12-37-30-19491"
+  },
+  {
+    "luminosity": 552,
+    "timestamp": "2019-11-25-12-37-30-19513"
+  },
+  {
+    "luminosity": 549,
+    "timestamp": "2019-11-25-12-37-30-19533"
+  },
+  {
+    "luminosity": 544,
+    "timestamp": "2019-11-25-12-37-30-19553"
+  },
+  {
+    "luminosity": 539,
+    "timestamp": "2019-11-25-12-37-30-19573"
+  },
+  {
+    "luminosity": 531,
+    "timestamp": "2019-11-25-12-37-30-19594"
+  },
+  {
+    "luminosity": 511,
+    "timestamp": "2019-11-25-12-37-30-19615"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-30-19635"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-30-19660"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-30-19680"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-30-19701"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-30-19721"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-30-19741"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-30-19761"
+  },
+  {
+    "luminosity": 416,
+    "timestamp": "2019-11-25-12-37-30-19783"
+  },
+  {
+    "luminosity": 420,
+    "timestamp": "2019-11-25-12-37-30-19803"
+  },
+  {
+    "luminosity": 427,
+    "timestamp": "2019-11-25-12-37-30-19824"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-30-19843"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-30-19864"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-30-19884"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-30-19909"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-30-19930"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-30-19950"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-30-19973"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-30-19991"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-30-20012"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-30-20032"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-30-20052"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-30-20073"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-30-20094"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-30-20113"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-30-20135"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-30-20159"
+  },
+  {
+    "luminosity": 487,
+    "timestamp": "2019-11-25-12-37-30-20180"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-30-20201"
+  },
+  {
+    "luminosity": 494,
+    "timestamp": "2019-11-25-12-37-30-20221"
+  },
+  {
+    "luminosity": 493,
+    "timestamp": "2019-11-25-12-37-30-20243"
+  },
+  {
+    "luminosity": 493,
+    "timestamp": "2019-11-25-12-37-31-20261"
+  },
+  {
+    "luminosity": 495,
+    "timestamp": "2019-11-25-12-37-31-20283"
+  },
+  {
+    "luminosity": 493,
+    "timestamp": "2019-11-25-12-37-31-20303"
+  },
+  {
+    "luminosity": 490,
+    "timestamp": "2019-11-25-12-37-31-20324"
+  },
+  {
+    "luminosity": 490,
+    "timestamp": "2019-11-25-12-37-31-20344"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-31-20364"
+  },
+  {
+    "luminosity": 489,
+    "timestamp": "2019-11-25-12-37-31-20385"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-31-20409"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-31-20429"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-31-20450"
+  },
+  {
+    "luminosity": 484,
+    "timestamp": "2019-11-25-12-37-31-20470"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-31-20490"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-31-20512"
+  },
+  {
+    "luminosity": 480,
+    "timestamp": "2019-11-25-12-37-31-20532"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-31-20553"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-31-20574"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-31-20593"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-31-20615"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-31-20635"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-31-20658"
+  },
+  {
+    "luminosity": 470,
+    "timestamp": "2019-11-25-12-37-31-20680"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-31-20701"
+  },
+  {
+    "luminosity": 470,
+    "timestamp": "2019-11-25-12-37-31-20722"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-31-20741"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-31-20761"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-31-20781"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-31-20803"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-31-20824"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-31-20846"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-31-20863"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-31-20884"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-31-20909"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-31-20929"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-31-20949"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-31-20969"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-31-20992"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-31-21012"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-31-21034"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-31-21053"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-31-21073"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-31-21094"
+  },
+  {
+    "luminosity": 453,
+    "timestamp": "2019-11-25-12-37-31-21113"
+  },
+  {
+    "luminosity": 437,
+    "timestamp": "2019-11-25-12-37-31-21135"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-31-21159"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-31-21179"
+  },
+  {
+    "luminosity": 411,
+    "timestamp": "2019-11-25-12-37-31-21199"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-31-21220"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-31-21240"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-32-21261"
+  },
+  {
+    "luminosity": 509,
+    "timestamp": "2019-11-25-12-37-32-21282"
+  },
+  {
+    "luminosity": 553,
+    "timestamp": "2019-11-25-12-37-32-21302"
+  },
+  {
+    "luminosity": 589,
+    "timestamp": "2019-11-25-12-37-32-21323"
+  },
+  {
+    "luminosity": 614,
+    "timestamp": "2019-11-25-12-37-32-21346"
+  },
+  {
+    "luminosity": 632,
+    "timestamp": "2019-11-25-12-37-32-21363"
+  },
+  {
+    "luminosity": 654,
+    "timestamp": "2019-11-25-12-37-32-21384"
+  },
+  {
+    "luminosity": 664,
+    "timestamp": "2019-11-25-12-37-32-21409"
+  },
+  {
+    "luminosity": 666,
+    "timestamp": "2019-11-25-12-37-32-21429"
+  },
+  {
+    "luminosity": 656,
+    "timestamp": "2019-11-25-12-37-32-21449"
+  },
+  {
+    "luminosity": 636,
+    "timestamp": "2019-11-25-12-37-32-21471"
+  },
+  {
+    "luminosity": 601,
+    "timestamp": "2019-11-25-12-37-32-21491"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-32-21512"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-32-21531"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-32-21552"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-32-21573"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-32-21593"
+  },
+  {
+    "luminosity": 432,
+    "timestamp": "2019-11-25-12-37-32-21614"
+  },
+  {
+    "luminosity": 418,
+    "timestamp": "2019-11-25-12-37-32-21634"
+  },
+  {
+    "luminosity": 403,
+    "timestamp": "2019-11-25-12-37-32-21658"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-32-21678"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-32-21700"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-32-21720"
+  },
+  {
+    "luminosity": 389,
+    "timestamp": "2019-11-25-12-37-32-21741"
+  },
+  {
+    "luminosity": 390,
+    "timestamp": "2019-11-25-12-37-32-21762"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-32-21780"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-32-21801"
+  },
+  {
+    "luminosity": 408,
+    "timestamp": "2019-11-25-12-37-32-21822"
+  },
+  {
+    "luminosity": 416,
+    "timestamp": "2019-11-25-12-37-32-21844"
+  },
+  {
+    "luminosity": 425,
+    "timestamp": "2019-11-25-12-37-32-21866"
+  },
+  {
+    "luminosity": 434,
+    "timestamp": "2019-11-25-12-37-32-21884"
+  },
+  {
+    "luminosity": 447,
+    "timestamp": "2019-11-25-12-37-32-21908"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-32-21930"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-32-21949"
+  },
+  {
+    "luminosity": 483,
+    "timestamp": "2019-11-25-12-37-32-21970"
+  },
+  {
+    "luminosity": 501,
+    "timestamp": "2019-11-25-12-37-32-21991"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-32-22011"
+  },
+  {
+    "luminosity": 519,
+    "timestamp": "2019-11-25-12-37-32-22033"
+  },
+  {
+    "luminosity": 520,
+    "timestamp": "2019-11-25-12-37-32-22053"
+  },
+  {
+    "luminosity": 517,
+    "timestamp": "2019-11-25-12-37-32-22072"
+  },
+  {
+    "luminosity": 507,
+    "timestamp": "2019-11-25-12-37-32-22092"
+  },
+  {
+    "luminosity": 503,
+    "timestamp": "2019-11-25-12-37-32-22114"
+  },
+  {
+    "luminosity": 504,
+    "timestamp": "2019-11-25-12-37-32-22133"
+  },
+  {
+    "luminosity": 511,
+    "timestamp": "2019-11-25-12-37-32-22158"
+  },
+  {
+    "luminosity": 514,
+    "timestamp": "2019-11-25-12-37-32-22179"
+  },
+  {
+    "luminosity": 520,
+    "timestamp": "2019-11-25-12-37-32-22199"
+  },
+  {
+    "luminosity": 525,
+    "timestamp": "2019-11-25-12-37-32-22219"
+  },
+  {
+    "luminosity": 533,
+    "timestamp": "2019-11-25-12-37-32-22239"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-33-22261"
+  },
+  {
+    "luminosity": 535,
+    "timestamp": "2019-11-25-12-37-33-22281"
+  },
+  {
+    "luminosity": 540,
+    "timestamp": "2019-11-25-12-37-33-22302"
+  },
+  {
+    "luminosity": 546,
+    "timestamp": "2019-11-25-12-37-33-22321"
+  },
+  {
+    "luminosity": 548,
+    "timestamp": "2019-11-25-12-37-33-22343"
+  },
+  {
+    "luminosity": 550,
+    "timestamp": "2019-11-25-12-37-33-22365"
+  },
+  {
+    "luminosity": 553,
+    "timestamp": "2019-11-25-12-37-33-22384"
+  },
+  {
+    "luminosity": 554,
+    "timestamp": "2019-11-25-12-37-33-22408"
+  },
+  {
+    "luminosity": 551,
+    "timestamp": "2019-11-25-12-37-33-22428"
+  },
+  {
+    "luminosity": 546,
+    "timestamp": "2019-11-25-12-37-33-22448"
+  },
+  {
+    "luminosity": 531,
+    "timestamp": "2019-11-25-12-37-33-22471"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-33-22490"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-33-22511"
+  },
+  {
+    "luminosity": 461,
+    "timestamp": "2019-11-25-12-37-33-22532"
+  },
+  {
+    "luminosity": 445,
+    "timestamp": "2019-11-25-12-37-33-22551"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-33-22571"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-33-22594"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-33-22614"
+  },
+  {
+    "luminosity": 393,
+    "timestamp": "2019-11-25-12-37-33-22634"
+  },
+  {
+    "luminosity": 386,
+    "timestamp": "2019-11-25-12-37-33-22659"
+  },
+  {
+    "luminosity": 379,
+    "timestamp": "2019-11-25-12-37-33-22679"
+  },
+  {
+    "luminosity": 378,
+    "timestamp": "2019-11-25-12-37-33-22699"
+  },
+  {
+    "luminosity": 382,
+    "timestamp": "2019-11-25-12-37-33-22720"
+  },
+  {
+    "luminosity": 386,
+    "timestamp": "2019-11-25-12-37-33-22739"
+  },
+  {
+    "luminosity": 392,
+    "timestamp": "2019-11-25-12-37-33-22761"
+  },
+  {
+    "luminosity": 398,
+    "timestamp": "2019-11-25-12-37-33-22781"
+  },
+  {
+    "luminosity": 405,
+    "timestamp": "2019-11-25-12-37-33-22801"
+  },
+  {
+    "luminosity": 412,
+    "timestamp": "2019-11-25-12-37-33-22822"
+  },
+  {
+    "luminosity": 424,
+    "timestamp": "2019-11-25-12-37-33-22842"
+  },
+  {
+    "luminosity": 433,
+    "timestamp": "2019-11-25-12-37-33-22863"
+  },
+  {
+    "luminosity": 441,
+    "timestamp": "2019-11-25-12-37-33-22884"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-33-22909"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-33-22929"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-33-22948"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-33-22970"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-33-22989"
+  },
+  {
+    "luminosity": 484,
+    "timestamp": "2019-11-25-12-37-33-23011"
+  },
+  {
+    "luminosity": 486,
+    "timestamp": "2019-11-25-12-37-33-23032"
+  },
+  {
+    "luminosity": 488,
+    "timestamp": "2019-11-25-12-37-33-23051"
+  },
+  {
+    "luminosity": 490,
+    "timestamp": "2019-11-25-12-37-33-23071"
+  },
+  {
+    "luminosity": 497,
+    "timestamp": "2019-11-25-12-37-33-23093"
+  },
+  {
+    "luminosity": 498,
+    "timestamp": "2019-11-25-12-37-33-23114"
+  },
+  {
+    "luminosity": 500,
+    "timestamp": "2019-11-25-12-37-33-23134"
+  },
+  {
+    "luminosity": 503,
+    "timestamp": "2019-11-25-12-37-33-23157"
+  },
+  {
+    "luminosity": 510,
+    "timestamp": "2019-11-25-12-37-33-23179"
+  },
+  {
+    "luminosity": 510,
+    "timestamp": "2019-11-25-12-37-33-23198"
+  },
+  {
+    "luminosity": 511,
+    "timestamp": "2019-11-25-12-37-33-23218"
+  },
+  {
+    "luminosity": 512,
+    "timestamp": "2019-11-25-12-37-33-23240"
+  },
+  {
+    "luminosity": 524,
+    "timestamp": "2019-11-25-12-37-34-23262"
+  },
+  {
+    "luminosity": 548,
+    "timestamp": "2019-11-25-12-37-34-23281"
+  },
+  {
+    "luminosity": 548,
+    "timestamp": "2019-11-25-12-37-34-23301"
+  },
+  {
+    "luminosity": 552,
+    "timestamp": "2019-11-25-12-37-34-23322"
+  },
+  {
+    "luminosity": 560,
+    "timestamp": "2019-11-25-12-37-34-23342"
+  },
+  {
+    "luminosity": 558,
+    "timestamp": "2019-11-25-12-37-34-23368"
+  },
+  {
+    "luminosity": 554,
+    "timestamp": "2019-11-25-12-37-34-23383"
+  },
+  {
+    "luminosity": 553,
+    "timestamp": "2019-11-25-12-37-34-23408"
+  },
+  {
+    "luminosity": 558,
+    "timestamp": "2019-11-25-12-37-34-23428"
+  },
+  {
+    "luminosity": 560,
+    "timestamp": "2019-11-25-12-37-34-23448"
+  },
+  {
+    "luminosity": 559,
+    "timestamp": "2019-11-25-12-37-34-23470"
+  },
+  {
+    "luminosity": 558,
+    "timestamp": "2019-11-25-12-37-34-23489"
+  },
+  {
+    "luminosity": 561,
+    "timestamp": "2019-11-25-12-37-34-23510"
+  },
+  {
+    "luminosity": 563,
+    "timestamp": "2019-11-25-12-37-34-23530"
+  },
+  {
+    "luminosity": 561,
+    "timestamp": "2019-11-25-12-37-34-23551"
+  },
+  {
+    "luminosity": 561,
+    "timestamp": "2019-11-25-12-37-34-23572"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-34-23591"
+  },
+  {
+    "luminosity": 565,
+    "timestamp": "2019-11-25-12-37-34-23613"
+  },
+  {
+    "luminosity": 563,
+    "timestamp": "2019-11-25-12-37-34-23633"
+  },
+  {
+    "luminosity": 560,
+    "timestamp": "2019-11-25-12-37-34-23658"
+  },
+  {
+    "luminosity": 562,
+    "timestamp": "2019-11-25-12-37-34-23679"
+  },
+  {
+    "luminosity": 564,
+    "timestamp": "2019-11-25-12-37-34-23698"
+  },
+  {
+    "luminosity": 562,
+    "timestamp": "2019-11-25-12-37-34-23718"
+  },
+  {
+    "luminosity": 560,
+    "timestamp": "2019-11-25-12-37-34-23739"
+  },
+  {
+    "luminosity": 565,
+    "timestamp": "2019-11-25-12-37-34-23759"
+  },
+  {
+    "luminosity": 573,
+    "timestamp": "2019-11-25-12-37-34-23780"
+  },
+  {
+    "luminosity": 571,
+    "timestamp": "2019-11-25-12-37-34-23801"
+  },
+  {
+    "luminosity": 547,
+    "timestamp": "2019-11-25-12-37-34-23822"
+  },
+  {
+    "luminosity": 517,
+    "timestamp": "2019-11-25-12-37-34-23842"
+  },
+  {
+    "luminosity": 462,
+    "timestamp": "2019-11-25-12-37-34-23862"
+  },
+  {
+    "luminosity": 429,
+    "timestamp": "2019-11-25-12-37-34-23883"
+  },
+  {
+    "luminosity": 413,
+    "timestamp": "2019-11-25-12-37-34-23906"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-34-23927"
+  },
+  {
+    "luminosity": 385,
+    "timestamp": "2019-11-25-12-37-34-23948"
+  },
+  {
+    "luminosity": 374,
+    "timestamp": "2019-11-25-12-37-34-23969"
+  },
+  {
+    "luminosity": 370,
+    "timestamp": "2019-11-25-12-37-34-23989"
+  },
+  {
+    "luminosity": 368,
+    "timestamp": "2019-11-25-12-37-34-24012"
+  },
+  {
+    "luminosity": 367,
+    "timestamp": "2019-11-25-12-37-34-24031"
+  },
+  {
+    "luminosity": 363,
+    "timestamp": "2019-11-25-12-37-34-24050"
+  },
+  {
+    "luminosity": 362,
+    "timestamp": "2019-11-25-12-37-34-24071"
+  },
+  {
+    "luminosity": 361,
+    "timestamp": "2019-11-25-12-37-34-24091"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-34-24113"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-34-24133"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-34-24156"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-34-24177"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-34-24198"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-34-24218"
+  },
+  {
+    "luminosity": 351,
+    "timestamp": "2019-11-25-12-37-34-24239"
+  },
+  {
+    "luminosity": 351,
+    "timestamp": "2019-11-25-12-37-35-24261"
+  },
+  {
+    "luminosity": 352,
+    "timestamp": "2019-11-25-12-37-35-24280"
+  },
+  {
+    "luminosity": 350,
+    "timestamp": "2019-11-25-12-37-35-24301"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-35-24320"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-35-24341"
+  },
+  {
+    "luminosity": 351,
+    "timestamp": "2019-11-25-12-37-35-24363"
+  },
+  {
+    "luminosity": 350,
+    "timestamp": "2019-11-25-12-37-35-24383"
+  },
+  {
+    "luminosity": 349,
+    "timestamp": "2019-11-25-12-37-35-24407"
+  },
+  {
+    "luminosity": 350,
+    "timestamp": "2019-11-25-12-37-35-24428"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-35-24448"
+  },
+  {
+    "luminosity": 448,
+    "timestamp": "2019-11-25-12-37-35-24468"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-35-24490"
+  },
+  {
+    "luminosity": 451,
+    "timestamp": "2019-11-25-12-37-35-24511"
+  },
+  {
+    "luminosity": 455,
+    "timestamp": "2019-11-25-12-37-35-24530"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-35-24550"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-35-24571"
+  },
+  {
+    "luminosity": 458,
+    "timestamp": "2019-11-25-12-37-35-24593"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-35-24612"
+  },
+  {
+    "luminosity": 465,
+    "timestamp": "2019-11-25-12-37-35-24633"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-35-24659"
+  },
+  {
+    "luminosity": 464,
+    "timestamp": "2019-11-25-12-37-35-24677"
+  },
+  {
+    "luminosity": 468,
+    "timestamp": "2019-11-25-12-37-35-24698"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-35-24718"
+  },
+  {
+    "luminosity": 468,
+    "timestamp": "2019-11-25-12-37-35-24739"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-35-24759"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-35-24780"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-35-24802"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-35-24821"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-35-24842"
+  },
+  {
+    "luminosity": 474,
+    "timestamp": "2019-11-25-12-37-35-24864"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-35-24882"
+  },
+  {
+    "luminosity": 473,
+    "timestamp": "2019-11-25-12-37-35-24908"
+  },
+  {
+    "luminosity": 473,
+    "timestamp": "2019-11-25-12-37-35-24928"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-35-24948"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-35-24969"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-35-24989"
+  },
+  {
+    "luminosity": 475,
+    "timestamp": "2019-11-25-12-37-35-25012"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-35-25030"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-35-25049"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-35-25071"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-35-25091"
+  },
+  {
+    "luminosity": 478,
+    "timestamp": "2019-11-25-12-37-35-25111"
+  },
+  {
+    "luminosity": 479,
+    "timestamp": "2019-11-25-12-37-35-25133"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-35-25158"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-35-25178"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-35-25197"
+  },
+  {
+    "luminosity": 468,
+    "timestamp": "2019-11-25-12-37-35-25218"
+  },
+  {
+    "luminosity": 470,
+    "timestamp": "2019-11-25-12-37-35-25238"
+  },
+  {
+    "luminosity": 463,
+    "timestamp": "2019-11-25-12-37-36-25259"
+  },
+  {
+    "luminosity": 453,
+    "timestamp": "2019-11-25-12-37-36-25279"
+  },
+  {
+    "luminosity": 440,
+    "timestamp": "2019-11-25-12-37-36-25301"
+  },
+  {
+    "luminosity": 415,
+    "timestamp": "2019-11-25-12-37-36-25321"
+  },
+  {
+    "luminosity": 399,
+    "timestamp": "2019-11-25-12-37-36-25341"
+  },
+  {
+    "luminosity": 394,
+    "timestamp": "2019-11-25-12-37-36-25363"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-36-25383"
+  },
+  {
+    "luminosity": 381,
+    "timestamp": "2019-11-25-12-37-36-25407"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-36-25427"
+  },
+  {
+    "luminosity": 372,
+    "timestamp": "2019-11-25-12-37-36-25447"
+  },
+  {
+    "luminosity": 370,
+    "timestamp": "2019-11-25-12-37-36-25469"
+  },
+  {
+    "luminosity": 365,
+    "timestamp": "2019-11-25-12-37-36-25490"
+  },
+  {
+    "luminosity": 362,
+    "timestamp": "2019-11-25-12-37-36-25508"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-36-25530"
+  },
+  {
+    "luminosity": 360,
+    "timestamp": "2019-11-25-12-37-36-25549"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-36-25570"
+  },
+  {
+    "luminosity": 400,
+    "timestamp": "2019-11-25-12-37-36-25590"
+  },
+  {
+    "luminosity": 417,
+    "timestamp": "2019-11-25-12-37-36-25612"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-36-25632"
+  },
+  {
+    "luminosity": 438,
+    "timestamp": "2019-11-25-12-37-36-25657"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-36-25676"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-36-25698"
+  },
+  {
+    "luminosity": 459,
+    "timestamp": "2019-11-25-12-37-36-25717"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-36-25737"
+  },
+  {
+    "luminosity": 471,
+    "timestamp": "2019-11-25-12-37-36-25758"
+  },
+  {
+    "luminosity": 477,
+    "timestamp": "2019-11-25-12-37-36-25779"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-36-25799"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-36-25820"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-36-25841"
+  },
+  {
+    "luminosity": 494,
+    "timestamp": "2019-11-25-12-37-36-25862"
+  },
+  {
+    "luminosity": 497,
+    "timestamp": "2019-11-25-12-37-36-25885"
+  },
+  {
+    "luminosity": 498,
+    "timestamp": "2019-11-25-12-37-36-25907"
+  },
+  {
+    "luminosity": 494,
+    "timestamp": "2019-11-25-12-37-36-25927"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-36-25947"
+  },
+  {
+    "luminosity": 492,
+    "timestamp": "2019-11-25-12-37-36-25967"
+  },
+  {
+    "luminosity": 491,
+    "timestamp": "2019-11-25-12-37-36-25987"
+  },
+  {
+    "luminosity": 485,
+    "timestamp": "2019-11-25-12-37-36-26009"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-36-26030"
+  },
+  {
+    "luminosity": 482,
+    "timestamp": "2019-11-25-12-37-36-26050"
+  },
+  {
+    "luminosity": 481,
+    "timestamp": "2019-11-25-12-37-36-26070"
+  },
+  {
+    "luminosity": 476,
+    "timestamp": "2019-11-25-12-37-36-26091"
+  },
+  {
+    "luminosity": 472,
+    "timestamp": "2019-11-25-12-37-36-26111"
+  },
+  {
+    "luminosity": 469,
+    "timestamp": "2019-11-25-12-37-36-26135"
+  },
+  {
+    "luminosity": 467,
+    "timestamp": "2019-11-25-12-37-36-26156"
+  },
+  {
+    "luminosity": 460,
+    "timestamp": "2019-11-25-12-37-36-26177"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-36-26197"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-36-26218"
+  },
+  {
+    "luminosity": 457,
+    "timestamp": "2019-11-25-12-37-36-26237"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-37-26259"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-37-26279"
+  },
+  {
+    "luminosity": 450,
+    "timestamp": "2019-11-25-12-37-37-26300"
+  },
+  {
+    "luminosity": 452,
+    "timestamp": "2019-11-25-12-37-37-26321"
+  },
+  {
+    "luminosity": 449,
+    "timestamp": "2019-11-25-12-37-37-26343"
+  },
+  {
+    "luminosity": 446,
+    "timestamp": "2019-11-25-12-37-37-26361"
+  },
+  {
+    "luminosity": 444,
+    "timestamp": "2019-11-25-12-37-37-26385"
+  },
+  {
+    "luminosity": 443,
+    "timestamp": "2019-11-25-12-37-37-26407"
+  },
+  {
+    "luminosity": 436,
+    "timestamp": "2019-11-25-12-37-37-26428"
+  },
+  {
+    "luminosity": 430,
+    "timestamp": "2019-11-25-12-37-37-26447"
+  },
+  {
+    "luminosity": 428,
+    "timestamp": "2019-11-25-12-37-37-26468"
+  },
+  {
+    "luminosity": 422,
+    "timestamp": "2019-11-25-12-37-37-26488"
+  },
+  {
+    "luminosity": 406,
+    "timestamp": "2019-11-25-12-37-37-26510"
+  },
+  {
+    "luminosity": 391,
+    "timestamp": "2019-11-25-12-37-37-26528"
+  },
+  {
+    "luminosity": 383,
+    "timestamp": "2019-11-25-12-37-37-26549"
+  },
+  {
+    "luminosity": 375,
+    "timestamp": "2019-11-25-12-37-37-26570"
+  },
+  {
+    "luminosity": 366,
+    "timestamp": "2019-11-25-12-37-37-26589"
+  },
+  {
+    "luminosity": 361,
+    "timestamp": "2019-11-25-12-37-37-26610"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-37-26635"
+  },
+  {
+    "luminosity": 358,
+    "timestamp": "2019-11-25-12-37-37-26656"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-37-26676"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26698"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26718"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-37-26737"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26758"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-37-26778"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-37-26798"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-37-26820"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26840"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-37-26861"
+  },
+  {
+    "luminosity": 353,
+    "timestamp": "2019-11-25-12-37-37-26885"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26906"
+  },
+  {
+    "luminosity": 355,
+    "timestamp": "2019-11-25-12-37-37-26925"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26947"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-26967"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-37-26989"
+  },
+  {
+    "luminosity": 356,
+    "timestamp": "2019-11-25-12-37-37-27008"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-27030"
+  },
+  {
+    "luminosity": 354,
+    "timestamp": "2019-11-25-12-37-37-27050"
+  },
+  {
+    "luminosity": 357,
+    "timestamp": "2019-11-25-12-37-37-27071"
+  },
+  {
+    "luminosity": 466,
+    "timestamp": "2019-11-25-12-37-37-27090"
+  },
+  {
+    "luminosity": 589,
+    "timestamp": "2019-11-25-12-37-37-27112"
+  },
+  {
+    "luminosity": 596,
+    "timestamp": "2019-11-25-12-37-37-27135"
+  },
+  {
+    "luminosity": 590,
+    "timestamp": "2019-11-25-12-37-37-27156"
+  },
+  {
+    "luminosity": 578,
+    "timestamp": "2019-11-25-12-37-37-27178"
+  }
+]
