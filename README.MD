@@ -1,12 +1,15 @@
 # Les gestes de l'ennui
 
+The goal of this project is to experiment with data visualisation from recording data with [arduino](https://www.arduino.cc/) to exporting it via [p5.riso](https://antiboredom.github.io/p5.riso/)  for printing.
+
+
 L'objectif de ce projet est un travail sur la représentation de données : de la captation et l'impression.
 
 Le sujet d'étude se portera sur la capatation de gestes du quotidien s'inscrivant dans une temporalité fugace porteur de la marque de l'ennui, afin de les enregistrer et les représenter dans le but de les péréniser via le processus de print.
 
 Les données vont être captées à l'aide de circuits électroniques réalisés via [arduino](https://www.arduino.cc/) , les données seront ensuite enregistrées et mises en forme à l'aide de [processing](https://processing.org/), puis interprétées et mises en image par l'intermédiaire de [p5js](https://p5js.org/) et de la bibliothèque [p5.riso](https://antiboredom.github.io/p5.riso/) dédiée à la préparation d'image pour l'impression par risographie.
 
-Le support de cours technique est disponible à cette adresse : https://github.com/b2renger/p5js_gestes_de_l_ennui
+Le support de cours technique est disponible à cette [ici](https://github.com/b2renger/p5js_gestes_de_l_ennui)
 
 
 # Pen Spining patterns 
