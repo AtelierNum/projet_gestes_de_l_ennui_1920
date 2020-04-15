@@ -9,9 +9,7 @@ Le sujet d'étude se portera sur la capatation de gestes du quotidien s'inscriva
 
 Les données vont être captées à l'aide de circuits électroniques réalisés via [arduino](https://www.arduino.cc/) , les données seront ensuite enregistrées et mises en forme à l'aide de [processing](https://processing.org/), puis interprétées et mises en image par l'intermédiaire de [p5js](https://p5js.org/) et de la bibliothèque [p5.riso](https://antiboredom.github.io/p5.riso/) dédiée à la préparation d'image pour l'impression par risographie.
 
-Le support de cours technique est disponible à cette [adresse](https://github.com/b2renger/p5js_gestes_de_l_ennui/blob/master/README.md)
-
-Le code des cours est disponible sur [github](https://github.com/b2renger/p5js_gestes_de_l_ennui/)
+Le support de cours technique et le code des cours est disponible sur [github](https://github.com/b2renger/p5js_gestes_de_l_ennui/)
 
 Le code des projets est disponible sur [github](https://github.com/AtelierNum/projet_gestes_de_l_ennui_1920)
 
